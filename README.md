@@ -90,4 +90,4 @@ Train mask sample<br>
 
 
 Dataset Statictics <br>
-<img src="./FAZ_Alzheimers-Disease-ImageMask-Dataset-V1_Statistics.png" with="512" height="auto"><br>
+<img src="./FAZ_Alzheimers-Disease-ImageMask-Dataset-V1_Statistics.png" width="512" height="auto"><br>
