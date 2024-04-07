@@ -1,4 +1,4 @@
-<h2> ImageMask-Dataset-FAZ_Alzheimers-Disease (2024/04/07)</h2>
+<h2> ImageMask-Dataset-FAZ_Alzheimer-s-Disease (2024/04/08)</h2>
 
 This is ImageMask Dataset for Alzheimers Disease.<br>
 The dataset used here has been taken from the following zendo.org web-site<br>
@@ -14,7 +14,7 @@ FAZ_Alzheimers-Disease-ImageMask-Dataset-V1.zip
 <br>
 
 <h3>1. Dataset Citation</h3>
-OCTA image dataset with pixel-level mask annotation for FAZ segmentation<br>
+<b>OCTA image dataset with pixel-level mask annotation for FAZ segmentation</b><br>
 
 Yufei Wang, Yiqing Shen, Meng Yuan, Jing Xu, Wei Wang and Weijing Cheng<br>
 <pre>
@@ -89,3 +89,5 @@ Train mask sample<br>
 <img src="./asset/train_masks_sample.png" width=1024 heigh="auto"><br><br>
 
 
+Dataset Statictics <br>
+<img src="./FAZ_Alzheimers-Disease-ImageMask-Dataset-V1_Statistics.png" with="512" height="auto"><br>
